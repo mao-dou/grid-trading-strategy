@@ -13,7 +13,7 @@ git init
 git add -A
 git commit -m 'deploy'
 
-# 部署到 https://<USERNAME>.github.io/<REPO>
+# 部署到 https://<USERNAME>.github.io/<REPO> bash deploy.sh
 git push -f https://github.com/mao-dou/grid-trading-strategy.git master:gh-pages
 
 cd -
