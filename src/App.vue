@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <h1>测试</h1>
+    <el-button type="primary">测试2</el-button>
   </div>
 </template>
 
